@@ -67,3 +67,9 @@ The dataset contains resume-related information such as:
 - Skills found in each resume
 - Missing skills for improvement
 - Graph showing score distribution
+
+## 📂 Dataset
+The dataset used in this project is large and cannot be uploaded directly to GitHub.
+
+You can download it from:
+https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
